@@ -233,8 +233,8 @@ display: none;
 #mainpanel {
 margin-top: 50px;
 margin-left: 25px;
-background:#fff;
-background-color:rgba(255,255,255,0.8);
+background:#eed4c9;
+background-color:rgba(238,212,201,255);
 border:1px solid #ccc;
 z-index:20;
 position:fixed;
