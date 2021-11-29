@@ -480,8 +480,8 @@ display: none;
 }
 
 #zoom .z {
-	background:#fff;
-	background-color:rgba(255,255,255,0.7);
+	background:#eed4c9;
+	background-color:rgba(238,212,201,255);
 	width: 60px;
 	height: 60px;
 	cursor: pointer;
