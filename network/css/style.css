@@ -518,7 +518,7 @@ display: none;
 #information {
 display: none;
 background: #eed4c9;
-padding: 0px 0px 0px 0px;
+padding: 1px;
 }
 
 #information h3 {
