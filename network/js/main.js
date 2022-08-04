@@ -565,7 +565,7 @@ function nodeActive(a) {
                 h = "";
 			if (attr!=image_attribute) {
 				if ((attr==='Címzett' || attr==='Levélíró') && (d != '–')) {
-					h = '<span><strong>' + attr + ':</strong> <a href="' + d + '">' + d + '</a></span><br/>'
+					h = '<span><strong>' + attr + ':</strong> <a href="' + d + '" target="_blank">' + d + '</a></span><br/>'
 				} else {	
 				h = '<span><strong>' + attr + ':</strong> ' + d + '</span><br/>'
 				}
